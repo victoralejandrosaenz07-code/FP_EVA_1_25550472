@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_3_25550472"/>
+        <attribute name="authors" value="Alejandro Saenz"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 04:31:07 p. m."/>
+        <attribute name="created" value="QWxlamFuZHJvIFNhZW56O0RFU0tUT1AtNkNGUTRHMTsyMDI1LTA4LTI3OzA0OjIyOjQ0IHAuIG0uOzM5NTg="/>
+        <attribute name="edited" value="QWxlamFuZHJvIFNhZW56O0RFU0tUT1AtNkNGUTRHMTsyMDI1LTA4LTI3OzA0OjMxOjA3IHAuIG0uOzE7NDA2NQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DE ESTUDIANTE: &quot;" newline="False"/>
+            <output expression="&quot;VICTOR ALEJANDRO SAENZ HERRERA&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL&quot;" newline="False"/>
+            <output expression="25550472" newline="True"/>
+            <output expression="&quot;EDAD&quot;" newline="False"/>
+            <output expression="18" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
