@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_4_EMPLEO"/>
+        <attribute name="authors" value="Alejandro Saenz"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 05:06:06 p. m."/>
+        <attribute name="created" value="QWxlamFuZHJvIFNhZW56O0RFU0tUT1AtNkNGUTRHMTsyMDI1LTA4LTI3OzA0OjU4OjQ4IHAuIG0uOzM5NzE="/>
+        <attribute name="edited" value="QWxlamFuZHJvIFNhZW56O0RFU0tUT1AtNkNGUTRHMTsyMDI1LTA4LTI3OzA1OjA2OjA2IHAuIG0uOzE7NDA2Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;nombre de empresa: &quot;" newline="False"/>
+            <output expression="&quot;pollitos lady&quot;" newline="True"/>
+            <output expression="&quot;empleo: &quot;" newline="False"/>
+            <output expression="&quot;cocinero&quot;" newline="True"/>
+            <output expression="&quot;salario: &quot;" newline="False"/>
+            <output expression="&quot;1200 por semana&quot;" newline="True"/>
+            <output expression="&quot;HORARIO SEMANAL: &quot;" newline="False"/>
+            <output expression="&quot;30 HORAS&quot;" newline="True"/>
+            <output expression="&quot;REQUISITOS: &quot;" newline="False"/>
+            <output expression="&quot;NINGUNO&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
